@@ -49,6 +49,4 @@ The dataset includes historical booking information for a city hotel and a resor
 - matplotlib, seaborn
 - Jupyter Notebook
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
+
